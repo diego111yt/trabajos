@@ -1,0 +1,51 @@
+colores
+
+parrafos
+
+textos
+
+.hud{
+    background-color: black;
+    display: block;
+    width: 80%;
+    height: 300px;
+    
+}
+
+.hud__texto {
+    color: white;
+    font-size: 28px;
+    margin-top: 1px;
+    margin-left: 2%;
+    display: flex;
+
+}
+
+.hud__yt{
+    position: absolute;
+    top: 5px;
+    right: 1%;
+
+
+    width: 60px;
+}
+.figura__cuadrado{
+    width: 96vw;
+    height: 90vh;
+    top: 7%;
+    left: 2%;
+    position: fixed;
+    background-color: white;
+    border-radius: 2%;
+    z-index: -1;
+
+}
+
+
+imagenes
+
+figuras
+
+tablas
+
+enlaces
